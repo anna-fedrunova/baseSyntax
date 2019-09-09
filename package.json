@@ -1,0 +1,22 @@
+{
+  "name": "basesyntax",
+  "version": "1.0.0",
+  "description": "tasks from seminar 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anna-fedrunova/baseSyntax.git"
+  },
+  "author": "Anna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anna-fedrunova/baseSyntax/issues"
+  },
+  "homepage": "https://github.com/anna-fedrunova/baseSyntax#readme",
+  "devDependencies": {
+    "eslint": "^6.3.0"
+  }
+}
